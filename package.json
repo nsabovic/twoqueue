@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Two-array implementation of a queue",
   "keywords": [
-    "queue",
+    "queue"
   ],
   "repository": {
     "type": "git",
