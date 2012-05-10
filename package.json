@@ -1,0 +1,15 @@
+{
+  "name": "twoqueue",
+  "version": "0.0.1",
+  "description": "Two-array implementation of a queue",
+  "keywords": [
+    "queue",
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsabovic/twoqueue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nsabovic/twoqueue/issues"
+  }
+}
